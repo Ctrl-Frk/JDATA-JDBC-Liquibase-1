@@ -9,3 +9,4 @@ public class JdataJdbcLiquibaseApplication {
         SpringApplication.run(JdataJdbcLiquibaseApplication.class, args);
     }
 }
+
